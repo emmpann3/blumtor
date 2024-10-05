@@ -1,0 +1,14 @@
+{
+    "interval": 3,
+    "auto_complete_task": true,
+    "auto_play_game": true,
+    "game_point": {
+        "low": 197,
+        "high": 235
+    },
+    "auto_claim": true,
+    "auto_task": true,
+    "auto_game": true,
+    "low": "196",
+    "high": "229"
+}
